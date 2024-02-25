@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hammamwahab
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - HammamWahab/Uncertain_T
+  - HammamWahab/Abstractive-and-Extractive-Text-Summarization-
